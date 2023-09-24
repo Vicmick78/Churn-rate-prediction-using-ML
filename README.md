@@ -1,4 +1,6 @@
 # Churn-rate-prediction-using-ML
+![image](https://github.com/Vicmick78/Churn-rate-prediction-using-ML/assets/132898097/efad5434-5a65-406e-9642-299f6473bd1f)
+
 # Leveraging on Machine Learning Model to predict customer churn rate in a Telecomm company.
 # Customer Churn Prediction and Prevention
 This README.md provides a step-by-step guide on how to predict and prevent customer churn in a telecom service provider environment.
